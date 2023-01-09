@@ -1,0 +1,18 @@
+1) Its a Java Program, choose any java compiler (i used eclipse).
+2) Copy paste the program in ide and run.
+3)Enter the input 
+example:
+Enter the number of Jobs
+3
+Enter job start time, end time, and earnings
+0900
+1030
+100
+1000
+1200
+500
+1100
+1200
+300
+
+4) Give input as mentioned above u will get output.
